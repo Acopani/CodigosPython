@@ -11,7 +11,6 @@ if 1 <= numero <= 10:
         contador += 1
 else:
     print("El número no está entre el 1 y el 10.")
-sys.exit
 print("--------------------------------------------------------------------------")
 
 
